@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>HTML DOCUMENT</title>
+
+<link rel="shortcut icon" type="image/jpg" href="rudra.jpg">
+</head>
+ <body>
+
+<h1>A SIMPLE HTML DOCUMENT</h1>
+<h1>Rudra Gahlot<h1>
+<h3>MCA-BATCH-3</h3>
+<p>My First Paragraph.........</p>
+
+</body>
+</html>
