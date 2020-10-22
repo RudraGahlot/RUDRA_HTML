@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>@rudra_gahlot/instagram</title>
+
+<link rel="shortcut icon" type="image/jpg" href="rudra.jpg">
+</head>
+ <body>
+<center>
+<h1> INSTAGRAM PROFILE</h1>
+<h1>Rudra Gahlot<h1>
+
+<img src="igpro.jpg" alt ="Tap For More" width="150" height="150">
+
+<a href ="https://www.instagram.com/rudra_gahlot/"> 
+<img src="ig.png" target="_blank" alt="ig profile" width="80" height="80"> </a>
+
+<h4> For more click on ig icon </h4>
+</center>
+
+</body>
+</html>
