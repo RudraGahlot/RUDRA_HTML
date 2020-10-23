@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>HTML FORMATTING ELEMENTS</title>
+
+</head>
+ <body>
+<center>
+<h1> HTML FORMATTING ELEMENTS </h1><br>
+
+<p><b>this text is BOLD</b></p>
+<p>this is <u>UNDERLINED</u> text example</p>
+<p>this is <em>EMPHASIZED</em> text</p>
+<p>this is <small>SMALL</small> text</p>
+<p>this is <del>DELETED</del> text</p>
+<p><i>this text is ITALIC</i></p>
+<p>this is <ins>INSERTED</ins> text</p>
+
+<p>This is<sub>subscript</sub> and <sup>superscript</sup></p>
+
+<strong>This text is <mark> marked</mark> STRONG</strong>
+
+<p>bi-directional override.Right to left and vice versa</p>
+
+<bdo dir="rtl">This text will be written from right to left</bdo>
+</center>
+<body><!--Write your comments here -->
+
+</html>
