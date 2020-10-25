@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		body{background-color: black}
+	</style>
+	<title>
+		
+	</title>
+</head>
+<center>
+<body>
+	<p title="ankit_verma">
+		<h1 style="color: red"> How to display Title in a Paragraph.</h1>
+
+		<h3 style="color: white">title of the below paragraph is WEB DESIGNING.</h3>
+		<p style="color: green">place your cursor on below paragraph for 2 sec.</p>
+<p style="color: orange" title="WEB DESIGNING"><br>“A successful website does three things:<br>
+It attracts the right kinds of visitors.<br>
+Guides them to the main services or product you offer.<br>
+Collect Contact details for future ongoing relation.”</p>
+</body>
+</center>
+</html>
