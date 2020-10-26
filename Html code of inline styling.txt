@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Styling in css</title>
+</head>
+<center>
+<body>
+
+	<!-------- inline styling------>
+
+<h1 style="color: red"></style>
+	"this is the type of inline styling"
+</h1>
+
+</body>
+</center>
+</html>
