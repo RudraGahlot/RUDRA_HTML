@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> IPL-2020</title>
+	<style>
+		
+		h1{
+			color: red;
+			background-color: ;
+			margin: 3%;
+		}
+		table,th,td{
+			border: 1px solid green;
+			border-collapse: collapse;		
+		           }
+	</style>
+</head>
+<body><center>
+	<h1>IPL-2020 POINTS TABLE</h1>
+	</center>
+<table style="width: 100%">
+	<tr bgcolor="lightgreen">
+		<th>TEAMS</th>
+		<th width="8%">MATCH PLAYED</th>
+		<th width="8%">WIN</th>
+		<th width="8%">LOST</th>
+		<th width="8%">POINTS</th>
+	</tr>
+	<tr>
+		<td bgcolor="lightblue">Mumbai Indians</td>
+		<td>11</td>
+		<td>7</td>
+		<td>4</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td bgcolor="tomato">Royal Challengers Banglore</td>
+		<td>11</td>
+		<td>7</td>
+		<td>4</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td bgcolor="slateblue">Delhi Capitals</td>
+		<td>12</td>
+		<td>7</td>
+		<td>5</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td bgcolor="MediumOrchid">Kings IX Punjab</td>
+		<td>12</td>
+		<td>6</td>
+		<td>6</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td bgcolor="gold">Kolkata Knight Riders</td>
+		<td>12</td>
+		<td>6</td>
+		<td>6</td>
+		<td>12</td>
+		
+	</tr>
+	<tr>
+		<td bgcolor="orangered">Sunrisers Hyderabad</td>
+		<td>12</td>
+		<td>5</td>
+		<td>7</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td bgcolor="MediumOrchid">Rajasthan Royals</td>
+		<td>12</td>
+		<td>5</td>
+		<td>7</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td bgcolor="yellow">Chennai Super Kings</td>
+		<td>12</td>
+		<td>4</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+</table>
+</body>
+</html>
