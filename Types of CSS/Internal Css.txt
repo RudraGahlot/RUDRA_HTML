@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+   <title> "INTERNAL CSS" </title>
+    <style>
+        #head{
+            color: crimson;
+            background-color: green;
+            font-size: 100px;
+        }
+    </style>
+</head>
+<center>
+<body>
+    <span style="color:black; background-color: red; border: red; font-size: 50px">Type of css</span>
+    <p id="head">1-This is Internal CSS</p>
+</body>
+</center>
+</html>
